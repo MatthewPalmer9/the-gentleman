@@ -12,6 +12,11 @@ body {
   color: #6b120d;
 }
 
+.check {
+  background-color: #1b1b1b;
+  color: white;
+}
+
 .fadeInBottom { animation-name: fadeInBottom }
 @keyframes fadeInBottom {
     from {
@@ -48,9 +53,26 @@ body {
     to { opacity: 1 }
 }
 
+.footer {
+  color: white;
+  font-family: 'Electrolize', sans-serif;
+}
+
 .gentleman {
   min-width: 100%;
   display: block!important;
+}
+
+.get-started {
+  background-color: #6b120d;
+}
+
+.get-started:hover {
+  background-color: #8b1711;
+}
+
+.heart {
+  color: #6b120d;
 }
 
 h2 {
@@ -87,6 +109,10 @@ section.main {
 
 section.perks {
   background: #1b1b1b;
+}
+
+svg {
+  color: #6b120d;
 }
 
 .tie {
