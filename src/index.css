@@ -111,6 +111,16 @@ section.perks {
   background: #1b1b1b;
 }
 
+.signUp {
+  background-color: #6b120d;
+  color: white;
+}
+
+.signUp:hover {
+  background-color: #8b1711;
+  color: white;
+}
+
 svg {
   color: #6b120d;
 }

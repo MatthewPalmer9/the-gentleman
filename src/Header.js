@@ -16,7 +16,7 @@ export default class Header extends Component {
                 <span className="animate title fadeInTop nowrap ml-3 text-xl">THE GENTLEMAN</span>
                 </a>
                 <div className="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
-                <a href="#" className="animate fadeInRight signUp inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0">
+                <a href="#" className="animate signUp fadeInRight inline-flex items-center border-0 py-1 px-3 focus:outline-none rounded text-base mt-4 md:mt-0">
                     Sign Up
                 </a>
                 <span>&nbsp;&nbsp;&nbsp;</span>
